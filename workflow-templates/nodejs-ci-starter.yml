@@ -1,7 +1,7 @@
 name: Organization NodeJS CI
 
 on:
-   push: default-branch
+   push: main
 
 jobs:
     build:
